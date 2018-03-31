@@ -1,0 +1,64 @@
+---
+booktitle: Proceedings of the Twenty-First International Conference on Artficial Intelligence
+  and Statistics
+shortname: AISTATS
+year: '2018'
+volume: 84
+start: 2018-04-09
+end: 2018-04-11
+published: 2018-03-31
+url: http://proceedings.mlr.press
+conference_number: '21'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: AISTATS-18
+month: 0
+cycles: false
+editor:
+- given: Amos
+  family: Storkey
+- given: Fernando
+  family: Perez-Cruz
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Twenty-First International Conference on Artficial Intelligence and Statistics
+    Held in Playa Blanca, Lanzarote, Canary Islands on 09-11 April 2018
+
+  Published as Volume 84 by the Proceedings of Machine Learning Research on 31 March 2018.
+
+  Volume Edited by:
+    Amos Storkey
+    Fernando Perez-Cruz
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: '09--11 Apr'
+baseurl: "/v84"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v84
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: International Conference on Artficial Intelligence and Statistics
+  url: 
+  location: Playa Blanca, Lanzarote, Canary Islands
+  dates:
+  - 2018-04-09
+  - 2018-04-10
+  - 2018-04-11
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/neil/mlresearch/v84/aistats18.bib
