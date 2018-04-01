@@ -1,5 +1,6 @@
 ---
-booktitle: Proceedings of the Twenty-First International Conference on Artificial Intelligence and Statistics
+booktitle: Proceedings of the Twenty-First International Conference on Artificial
+  Intelligence and Statistics
 shortname: AISTATS
 year: '2018'
 volume: 84
@@ -20,7 +21,7 @@ editor:
   family: Perez-Cruz
 title: Proceedings of Machine Learning Research
 description: |
-  Proceedings of the Twenty-First International Conference on Artficial Intelligence and Statistics
+  Proceedings of the Twenty-First International Conference on Artificial Intelligence and Statistics
     Held in Playa Blanca, Lanzarote, Canary Islands on 09-11 April 2018
 
   Published as Volume 84 by the Proceedings of Machine Learning Research on 31 March 2018.
@@ -49,7 +50,7 @@ display:
   comments: false
 email: ''
 conference:
-  name: International Conference on Artficial Intelligence and Statistics
+  name: International Conference on Artificial Intelligence and Statistics
   url: 
   location: Playa Blanca, Lanzarote, Canary Islands
   dates:
