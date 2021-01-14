@@ -25,7 +25,7 @@ page: 652-660
 order: 652
 cycles: false
 author:
-- given: Dougal
+- given: Danica J.
   family: Sutherland
 - given: Heiko
   family: Strathmann
